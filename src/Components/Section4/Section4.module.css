@@ -1,0 +1,22 @@
+.bg{
+    background-image: url(./../../assets/imges/landing-page/Vector.png);
+  background-position-x: left;
+  background-position-y:center ;
+  background-size: 80%;
+    background-repeat: no-repeat;
+}
+
+.bg {
+  overflow: hidden;
+}
+
+.contentImg {
+  margin-left: -20px; /* خلي الصورة خارجة من الشاشة */
+}
+
+.contentImg img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

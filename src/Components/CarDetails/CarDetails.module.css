@@ -1,0 +1,7 @@
+.bgDetails{
+    background-image: url(./../../assets/imges/landing-page/Vector.png);
+  background-position-x: left;
+  background-position-y:center ;
+  background-size: 50%;
+    background-repeat: no-repeat;
+}
