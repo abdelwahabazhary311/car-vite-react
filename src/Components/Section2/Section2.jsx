@@ -6,7 +6,7 @@ import car2 from "../../assets/images/card/car2.png"
 import car3 from "../../assets/images/card/car3.png"
 import strImg from "../../assets/images/card/star.png"
 import user from "../../assets/images/card/user.png"
-import frame  from "../../assets/images/card/frame.png"
+import frame  from "../../assets/images/card/doors.png"
 import air  from "../../assets/images/card/d8wxke_2_.png"
 import arow from '../../assets/images/card/arrow-right.png'
 import { useNavigate } from 'react-router-dom';
